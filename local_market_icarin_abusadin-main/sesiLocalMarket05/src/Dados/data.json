@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "desc": "Nike Air Jordan 4 Cactus Jack X Travis Scott",
+        "imagem": "../../public/travis.webp",
+        "valor": 10000.00
+    },
+      {
+        "id": 2,
+        "desc": "Nike Air Max tn Plus White",
+        "imagem": "../../public/tn.avif",
+        "valor": 1200.00
+    },
+      {
+        "id": 3,
+        "desc": "Nike Air Force 1 Low White x nocta",
+        "imagem": "../../public/air force.webp",
+        "valor": 1200.00
+    }
+]
